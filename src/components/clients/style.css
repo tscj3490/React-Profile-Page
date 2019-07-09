@@ -1,0 +1,15 @@
+.avatar-thumbnail {
+    width: 60px;
+    height: 60px;
+}
+th {
+    text-align: center;
+}
+table td {
+    height: 60px;
+    line-height: 60px !important;
+    text-align: center;
+}
+.search-form {
+    margin-bottom: 10px;   
+}
